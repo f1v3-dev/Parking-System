@@ -109,7 +109,24 @@ HTML에서 CCTV로 주차장 상황을 알 수 있고, 주차 공간도 파악�
 
 
 ---------------------------------------------
-# 8. 프로젝트 제작 과정 
+# 8. 프로젝트 구현 과정
+
+### Pi 카메라로 차량을 인식하고 촬영한 후 OpenCV를 통해 차량 번호를 인식하는 과정
+
 ![image](https://user-images.githubusercontent.com/84575041/210685588-6bf0e412-3795-4727-8488-369a2700347d.png)
 
+
 ![image](https://user-images.githubusercontent.com/84575041/210685601-3105f724-6d48-4b76-9128-5929eff38bbc.png)
+
+![image](https://user-images.githubusercontent.com/84575041/210685742-463688b0-ba43-4952-8c7c-fe702d8574f9.png)
+
+![image](https://user-images.githubusercontent.com/84575041/210685747-7f08ae7d-a881-4f40-a945-f7ed2716496b.png)
+
+![image](https://user-images.githubusercontent.com/84575041/210685751-8a6d9e23-c6ac-4407-a176-6b36b75ee089.png)
+
+
+### Flask ( Web Page )
+![image](https://user-images.githubusercontent.com/84575041/210685829-7ba53eaf-c2c0-4599-98b2-d61d6293b7d6.png)
+
+![image](https://user-images.githubusercontent.com/84575041/210685833-162ba5ff-c941-4458-9e65-4ddca3ee3f96.png)
+
