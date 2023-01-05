@@ -126,7 +126,7 @@ HTML에서 CCTV로 주차장 상황을 알 수 있고, 주차 공간도 파악�
 
 --------------------------------------------------------------------------------------
 
-#### Flask (Python)을 통해 웹페이지 구현
+#### Flask (Web)
 ![image](https://user-images.githubusercontent.com/84575041/210685829-7ba53eaf-c2c0-4599-98b2-d61d6293b7d6.png)
 
 ![image](https://user-images.githubusercontent.com/84575041/210685833-162ba5ff-c941-4458-9e65-4ddca3ee3f96.png)
